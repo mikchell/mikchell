@@ -1,5 +1,5 @@
 ## Hi There! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=はじめまして、こんにちは！;私はWeb開発をしているエンジニアです！;好きな言語はRubyです！;趣味はバスケットボールです⛹️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=はじめまして、こんにちは！;私はWeb開発をしている現役院生エンジニアです！;好きな言語はRubyです！;趣味はバスケットボールです⛹️)](https://git.io/typing-svg)
 ## My skills 📚️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,nodejs,nextjs,aws,docker)](https://skillicons.dev)
 ## Stats 🏀
