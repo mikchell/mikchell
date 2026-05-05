@@ -8,7 +8,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=mikchell&theme=gruvbox)
-
 
