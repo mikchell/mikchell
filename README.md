@@ -3,9 +3,6 @@
 ## My skills 📚️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
 ## Stats 🏀
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikchell&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikchell&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
 
