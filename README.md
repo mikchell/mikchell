@@ -1,8 +1,7 @@
 ## Hi There! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=はじめまして！こんにちは！;Web開発をしている現役大学院生エンジニアです！！！;好きな言語はRubyとJavaScriptです！;趣味はバスケットボールです⛹️;よろしくおねがいします！)](https://git.io/typing-svg)
 
-※3月に社用アカウント➝個人用アカウントへ移行しました!!!!
-
+※3月に社用アカウント➝個人用アカウントへ移行しました
 ## My skills 📚️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
 ## Stats 🏀
