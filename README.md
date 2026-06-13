@@ -3,7 +3,7 @@
 
 ※3月に社用アカウント➝個人用アカウントへ移行しました
 ## My skills 📚️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
 ## Stats 🏀
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
