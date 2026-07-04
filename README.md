@@ -14,7 +14,7 @@ Currently working as a backend engineer while continuously expanding my skills i
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
 ## 🏃‍♀️ Activities
-[![mikchell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mikchell&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikchell/mikchell/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikchell/mikchell/output/github-contribution-grid-snake.svg">
