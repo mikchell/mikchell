@@ -1,4 +1,4 @@
-## Hi There! 👋
+## Hi There! 👋, I'm mikchell
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=こんにちは！;Web開発をしている現役大学院生エンジニアです！！！;好きな言語はRubyとJavaScriptです！;趣味はバスケットボールです⛹️;よろしくおねがいします！)](https://git.io/typing-svg)
 
 ### ※2026年3月に社用アカウント➝個人用アカウントへ移行しました
