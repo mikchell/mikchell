@@ -7,7 +7,6 @@ Currently working as a backend engineer while continuously expanding my skills i
 * 🎓 **Major:** Computer Science
 * 💬 **Nice to meet you!** Open to collaboration and technical discussions!
 
-
 ## 🌱 My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
 ## 📈 Stats
