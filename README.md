@@ -3,7 +3,7 @@
 I'm a graduate student and software engineer focusing on web development! 🚀<br>
 Currently working as a backend engineer while continuously expanding my skills into frontend and cloud infrastructure.
 
-- 🏀 **Hobbies:** Playing basketball ⛹️
+- 🏀 **Hobbies:** Playing basketball
 - 🎓 **Major:** Computer Science
 - 💬 **Nice to meet you!** Open to collaboration and technical discussions!
 
