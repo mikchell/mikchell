@@ -8,7 +8,7 @@ Currently working as a backend engineer while continuously expanding my skills i
 - 💬 **Nice to meet you!** Open to collaboration and technical discussions!
 
 ## 🌱 My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,ruby,rails,react,nextjs,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,python,fastapi,nextjs,aws)](https://skillicons.dev)
 ## 📈 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
