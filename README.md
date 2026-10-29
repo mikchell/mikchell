@@ -1,6 +1,6 @@
 ## 👋 Hi There!, I'm mikchell
-#### TMU M1 / Pinsight co-founder / Vice President, Beyond Campus
-### ※2026年3月にmainを社用アカウント➝個人用アカウントへ移行しました
+### TMU M1 / Pinsight co-founder / Vice President, Beyond Campus
+#### ※2026年3月にmainを社用アカウント➝個人用アカウントへ移行しました
 I'm a graduate student and software engineer focusing on web development! 🚀<br>
 Currently working as a backend engineer while continuously expanding my skills into frontend and cloud infrastructure.
 ## 🌱 My skills
