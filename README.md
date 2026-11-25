@@ -3,8 +3,6 @@
 #### ※2026年3月にmainを社用アカウント➝個人用アカウントへ移行しました
 I'm a graduate student and software engineer focusing on web development! 🚀<br>
 Currently working as a backend engineer while continuously expanding my skills into frontend and cloud infrastructure.
-## 🌱 My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,python,fastapi,nextjs,aws)](https://skillicons.dev)
 ## 📈 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikchell&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikchell&theme=gruvbox&utcOffset=9)
